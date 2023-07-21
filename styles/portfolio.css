@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-primary {}
+
+/* nav related styles */
+.website-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
